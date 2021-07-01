@@ -1,0 +1,13 @@
+.blackbutton {
+  transition-duration: 0.4s;
+  border-radius: 2px;
+  text-align: center;
+  font-size: 16px;
+  color: black;
+  padding: 15px 28px;
+}
+.blackbutton:hover {
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+}
