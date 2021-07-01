@@ -6,6 +6,8 @@ a.blackbutton {
   color: black;
   padding: 15px 28px;
   display: block;
+  text-decoration: none;
+  font-family:JetBrains Mono,monospace;
 }
 a.blackbutton:hover {
   background-color: black;
