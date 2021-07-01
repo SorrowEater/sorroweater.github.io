@@ -12,6 +12,5 @@ a.blackbutton {
 }
 a.blackbutton:hover {
   background-color: white;
-  color: black;
   border-radius: 4px;
 }
