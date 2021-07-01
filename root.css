@@ -1,4 +1,4 @@
-.blackbutton {
+a.blackbutton {
   transition-duration: 0.4s;
   border-radius: 2px;
   text-align: center;
@@ -6,7 +6,7 @@
   color: black;
   padding: 15px 28px;
 }
-.blackbutton:hover {
+a.blackbutton:hover {
   background-color: black;
   color: white;
   border-radius: 4px;
