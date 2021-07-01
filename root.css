@@ -5,6 +5,7 @@ a.blackbutton {
   font-size: 16px;
   color: black;
   padding: 15px 28px;
+  display: block;
 }
 a.blackbutton:hover {
   background-color: black;
