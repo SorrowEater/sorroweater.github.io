@@ -3,14 +3,15 @@ a.blackbutton {
   border-radius: 2px;
   text-align: center;
   font-size: 16px;
-  color: black;
+  color: white;
+  background-color: black;
   padding: 15px 28px;
   display: block;
   text-decoration: none;
   font-family:JetBrains Mono,monospace;
 }
 a.blackbutton:hover {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
   border-radius: 4px;
 }
