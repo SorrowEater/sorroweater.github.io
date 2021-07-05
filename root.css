@@ -1,4 +1,4 @@
-a.blackbutton {
+blackbutton {
   transition-duration: 0.4s;
   border-radius: 2px;
   text-align: center;
@@ -10,7 +10,7 @@ a.blackbutton {
   display: block;
   font-family:JetBrains Mono,monospace;
 }
-a.blackbutton:hover {
+blackbutton:hover {
   background-color: white;
   color: black;
   border-radius: 4px;
